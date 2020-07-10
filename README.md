@@ -1,5 +1,5 @@
 # Amazing_public
-
+自动监控目标程序执行任意指令,指令级辅助分析反调试(如int2e)、反虚拟机（如cpuid）、加密算法、程序破解... 
 
 
 #### 使用
@@ -16,3 +16,6 @@
 
 
 #### 效果
+
+
+![qqtROglKNq](https://user-images.githubusercontent.com/16742566/87137741-fc971500-c2cf-11ea-8bd7-36c3000a39bf.gif)
