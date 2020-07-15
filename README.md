@@ -19,3 +19,18 @@
 
 
 ![qqtROglKNq](https://user-images.githubusercontent.com/16742566/87137741-fc971500-c2cf-11ea-8bd7-36c3000a39bf.gif)
+
+
+#### 数据缓存（sqlite）
+> 可通过python与ida、ghidra、binary ninja交互
+- 部分视图
+    - 反汇编
+    ![image](https://user-images.githubusercontent.com/16742566/87556522-555c1880-c6e9-11ea-8cce-621393ad07f5.png)
+
+    - 寄存器
+    ![image](https://user-images.githubusercontent.com/16742566/87556773-9f44fe80-c6e9-11ea-89e2-e8af26c0de11.png)
+
+
+
+#### 依赖
+- 主要依赖于`pin` + `WPF(.net framework 4.8)`
