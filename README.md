@@ -30,6 +30,9 @@
     - 寄存器
     ![image](https://user-images.githubusercontent.com/16742566/87556773-9f44fe80-c6e9-11ea-89e2-e8af26c0de11.png)
 
+- 使用
+    - 查看执行过的rdtsc指令
+    ![image](https://user-images.githubusercontent.com/16742566/87668927-a3cbee80-c79f-11ea-8ee7-18f3bbcc9d31.png)
 
 
 #### 依赖
